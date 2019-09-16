@@ -1,14 +1,8 @@
-# @design-system-example/package-builder
-
-## 1.0.2
-
-### Patch Changes
-
-- 1ef77bb: split css out of components
-  - 1ef77bb: seperated styles from the components
+# @design-system-example/components
 
 ## 1.0.1
 
 ### Patch Changes
 
-- d225a08: Created mixins
+- 1ef77bb: split css out of components
+  - 1ef77bb: seperated styles from the components
